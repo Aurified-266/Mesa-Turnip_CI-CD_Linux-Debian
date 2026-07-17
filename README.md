@@ -5,6 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Android%2013%2B-green.svg)
 ![Device](https://img.shields.io/badge/Device-Retroid%20Pocket%205-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Stable-success.svg)
+![Status](https://img.shields.io/badge/Status-Developer-success.svg)
 
 ### *TLDR*;
 
